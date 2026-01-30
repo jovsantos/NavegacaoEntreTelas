@@ -9,7 +9,7 @@
 			<Image Grid.Row="0" Source="roblox.png"/>
 			<Label Grid.Row="1" Text="Seja Bem-vindo(a)!" FontSize="40"
 				FontAttributes="Bold" HorizontalTextAlignment="Center"/>
-			<Button Grid.Row="2" Text="Sair" BackgroundColor="Brown"
+			<Button Grid.Row="2" Text="Sair"
 				Clicked="OnSairClicked"/>
 		</Grid>
 	</VerticalStackLayout>
