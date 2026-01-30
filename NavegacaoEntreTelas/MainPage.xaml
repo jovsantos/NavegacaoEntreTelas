@@ -18,9 +18,9 @@
             <Entry Grid.Row="3" Placeholder="******"
                    Margin="0,0,0,40"/>
             <Button Grid.Row="4" Text="Entrar"
-                    Margin="0,0,0,20" Clicked="OnEntrarClicked"/>
+                    Margin="0,0,0,20" Clicked="OnEntrarClicked" 
+                    Style="{StaticResource BtnEntrar}"/>
             <Button Grid.Row="5" Text="Cadastrar"
-                    BackgroundColor="BlueViolet" 
                     Clicked="OnCadastrarClicked"/>
         </Grid>        
         
